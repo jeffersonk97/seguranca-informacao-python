@@ -16,3 +16,7 @@ Segurança da Informação tem como objetivo assegurar que todos os dados de uma
 O ICMP (Internet Control Message Protocol) é um protocolo integrado ao Protocolo IP utilizado para fornecer relatórios de erros à fonte original.
 ### PING
 É uma ferramenta que utiliza o protocolo ICMP para testar a conectividade entre nós (terminais).
+
+### Biblioteca OS
+É um módulo que fornece de maneira simples, funcionalidades que são dependentes de Sistema Operacional.
+No código, exemplos de um "Ping Simples" e "Ping Múltiplo", em Python.
